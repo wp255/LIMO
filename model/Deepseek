@@ -1,1 +1,9 @@
+Due to GitHub's file size limitations, the complete model files cannot be uploaded directly here.
 
+Model Download
+The original pre-trained model can be downloaded from the following link:
+https://modelscope.cn/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B/files
+
+
+Fine-tuned Weights
+I have uploaded a fine-tuned weights module to this repository. You can use this module to load the fine-tuned model for inference or further training.
