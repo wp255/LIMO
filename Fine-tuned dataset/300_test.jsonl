@@ -1,0 +1,300 @@
+{"nl_intent": "A remote surgery operation is scheduled in a hospital in Hangzhou on 2025-01-23. The surgeon will control robotic arms over the 6G network, and the connection must be extremely stable with very low latency and almost no packet loss."}
+{"nl_intent": "A logistics company in Shanghai will attach low-power trackers to thousands of containers and pallets from 2025-04-08, sending infrequent location updates."}
+{"nl_intent": "A smart factory in Suzhou will coordinate robot arms and AGVs on 2025-05-24. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "On 2025-04-07, a global holographic townhall in Shenzhen will broadcast 8K volumetric video to remote offices, with participants wearing AR headsets for immersive telepresence."}
+{"nl_intent": "On 2025-02-02, an autonomous driving test on the expressway near Chengdu will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "An international airport in Dubai plans to deploy high-capacity 6G hotspots in departure halls on 2025-03-09, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "Starting from 2025-05-25, protection signals in the power grid of London will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "An urban smart parking system in London will deploy ground sensors from 2025-04-22, with devices occasionally uploading occupancy information."}
+{"nl_intent": "A university campus in Seoul will upgrade to 6G on 2025-04-06 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "An industrial park in Dubai plans dense deployment of environmental sensors on 2025-03-09 to monitor air quality, temperature and humidity."}
+{"nl_intent": "A smart agriculture project near Bangkok from 2025-04-10 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "A logistics company in Singapore will attach low-power trackers to thousands of containers and pallets from 2025-01-04, sending infrequent location updates."}
+{"nl_intent": "A smart agriculture project near Shanghai from 2025-03-15 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "A university campus in Dubai will upgrade to 6G on 2025-02-15 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "A remote surgery operation is scheduled in a hospital in Beijing on 2025-02-04. The surgeon will control robotic arms over the 6G network, and the connection must be extremely stable with very low latency and almost no packet loss."}
+{"nl_intent": "Starting on 2025-04-22, a city-wide smart metering rollout in Hangzhou will connect tens of thousands of electricity meters, each periodically reporting consumption data."}
+{"nl_intent": "A large sports event in Shenzhen on 2025-01-22 evening will provide 4K live streaming and multi-angle replays to spectators in the stadium on their mobile devices."}
+{"nl_intent": "A university campus in Tokyo will upgrade to 6G on 2025-01-08 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "On 2025-01-07, a global holographic townhall in Singapore will broadcast 8K volumetric video to remote offices, with participants wearing AR headsets for immersive telepresence."}
+{"nl_intent": "On 2025-04-06, an autonomous driving test on the expressway near Chengdu will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "Starting on 2025-05-13, a city-wide smart metering rollout in Shanghai will connect tens of thousands of electricity meters, each periodically reporting consumption data."}
+{"nl_intent": "An urban smart parking system in Tokyo will deploy ground sensors from 2025-04-05, with devices occasionally uploading occupancy information."}
+{"nl_intent": "A smart factory in Tokyo will coordinate robot arms and AGVs on 2025-04-21. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "A large sports event in Bangkok on 2025-04-26 evening will provide 4K live streaming and multi-angle replays to spectators in the stadium on their mobile devices."}
+{"nl_intent": "A logistics company in London will attach low-power trackers to thousands of containers and pallets from 2025-05-12, sending infrequent location updates."}
+{"nl_intent": "A large sports event in Nanjing on 2025-05-26 evening will provide 4K live streaming and multi-angle replays to spectators in the stadium on their mobile devices."}
+{"nl_intent": "An industrial park in Suzhou plans dense deployment of environmental sensors on 2025-03-09 to monitor air quality, temperature and humidity."}
+{"nl_intent": "A university campus in Xi'an will upgrade to 6G on 2025-01-05 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "On 2025-05-22, an autonomous driving test on the expressway near Suzhou will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "A university campus in Chengdu will upgrade to 6G on 2025-05-04 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "A large sports event in Tokyo on 2025-02-27 evening will provide 4K live streaming and multi-angle replays to spectators in the stadium on their mobile devices."}
+{"nl_intent": "An industrial park in Dubai plans dense deployment of environmental sensors on 2025-03-29 to monitor air quality, temperature and humidity."}
+{"nl_intent": "A large sports event in Seoul on 2025-03-22 evening will provide 4K live streaming and multi-angle replays to spectators in the stadium on their mobile devices."}
+{"nl_intent": "A logistics company in Wuhan will attach low-power trackers to thousands of containers and pallets from 2025-04-08, sending infrequent location updates."}
+{"nl_intent": "During an emergency response drill in Wuhan on 2025-05-24, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "An industrial park in Hangzhou plans dense deployment of environmental sensors on 2025-05-09 to monitor air quality, temperature and humidity."}
+{"nl_intent": "An international airport in Tokyo plans to deploy high-capacity 6G hotspots in departure halls on 2025-03-18, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "Starting from 2025-03-10, protection signals in the power grid of Bangkok will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "A smart agriculture project near Bangkok from 2025-05-09 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "A smart factory in Guangzhou will coordinate robot arms and AGVs on 2025-01-06. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "A university campus in Shanghai will upgrade to 6G on 2025-05-01 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "An international airport in Shanghai plans to deploy high-capacity 6G hotspots in departure halls on 2025-04-29, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "A smart agriculture project near Beijing from 2025-03-24 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "During an emergency response drill in Wuhan on 2025-04-17, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "Starting on 2025-02-20, a city-wide smart metering rollout in Wuhan will connect tens of thousands of electricity meters, each periodically reporting consumption data."}
+{"nl_intent": "A logistics company in Xi'an will attach low-power trackers to thousands of containers and pallets from 2025-03-19, sending infrequent location updates."}
+{"nl_intent": "On 2025-04-24, an autonomous driving test on the expressway near Guangzhou will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "A university campus in Shenzhen will upgrade to 6G on 2025-04-11 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "An urban smart parking system in Seoul will deploy ground sensors from 2025-05-13, with devices occasionally uploading occupancy information."}
+{"nl_intent": "Starting from 2025-03-04, protection signals in the power grid of Shanghai will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "A remote surgery operation is scheduled in a hospital in Seoul on 2025-03-24. The surgeon will control robotic arms over the 6G network, and the connection must be extremely stable with very low latency and almost no packet loss."}
+{"nl_intent": "A smart agriculture project near Seoul from 2025-03-16 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "A logistics company in Suzhou will attach low-power trackers to thousands of containers and pallets from 2025-02-24, sending infrequent location updates."}
+{"nl_intent": "Starting from 2025-02-26, protection signals in the power grid of Seoul will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "Starting from 2025-01-20, protection signals in the power grid of Tokyo will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "A smart factory in Dubai will coordinate robot arms and AGVs on 2025-01-28. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "A university campus in Beijing will upgrade to 6G on 2025-04-24 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "On 2025-01-25, an autonomous driving test on the expressway near London will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "Starting on 2025-04-09, a city-wide smart metering rollout in Xi'an will connect tens of thousands of electricity meters, each periodically reporting consumption data."}
+{"nl_intent": "A smart factory in Shenzhen will coordinate robot arms and AGVs on 2025-03-26. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "An industrial park in Xi'an plans dense deployment of environmental sensors on 2025-04-14 to monitor air quality, temperature and humidity."}
+{"nl_intent": "A smart factory in Shanghai will coordinate robot arms and AGVs on 2025-04-02. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "Starting from 2025-04-21, protection signals in the power grid of Nanjing will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "During an emergency response drill in Suzhou on 2025-04-13, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "A university campus in Shenzhen will upgrade to 6G on 2025-01-29 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "An urban smart parking system in Hangzhou will deploy ground sensors from 2025-04-18, with devices occasionally uploading occupancy information."}
+{"nl_intent": "A logistics company in Seoul will attach low-power trackers to thousands of containers and pallets from 2025-01-09, sending infrequent location updates."}
+{"nl_intent": "An urban smart parking system in Singapore will deploy ground sensors from 2025-05-10, with devices occasionally uploading occupancy information."}
+{"nl_intent": "A smart factory in Suzhou will coordinate robot arms and AGVs on 2025-04-24. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "A university campus in Xi'an will upgrade to 6G on 2025-04-13 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "On 2025-03-14, a global holographic townhall in Dubai will broadcast 8K volumetric video to remote offices, with participants wearing AR headsets for immersive telepresence."}
+{"nl_intent": "A remote surgery operation is scheduled in a hospital in Hangzhou on 2025-01-08. The surgeon will control robotic arms over the 6G network, and the connection must be extremely stable with very low latency and almost no packet loss."}
+{"nl_intent": "An urban smart parking system in Xi'an will deploy ground sensors from 2025-04-04, with devices occasionally uploading occupancy information."}
+{"nl_intent": "During an emergency response drill in Guangzhou on 2025-01-19, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "During an emergency response drill in Seoul on 2025-01-24, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "On 2025-03-26, an autonomous driving test on the expressway near Guangzhou will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "Starting on 2025-04-23, a city-wide smart metering rollout in Tianjin will connect tens of thousands of electricity meters, each periodically reporting consumption data."}
+{"nl_intent": "On 2025-04-10, an autonomous driving test on the expressway near Bangkok will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "Starting on 2025-02-03, a city-wide smart metering rollout in Wuhan will connect tens of thousands of electricity meters, each periodically reporting consumption data."}
+{"nl_intent": "An urban smart parking system in Seoul will deploy ground sensors from 2025-02-03, with devices occasionally uploading occupancy information."}
+{"nl_intent": "A smart factory in Tokyo will coordinate robot arms and AGVs on 2025-03-20. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "On 2025-05-26, a global holographic townhall in Hangzhou will broadcast 8K volumetric video to remote offices, with participants wearing AR headsets for immersive telepresence."}
+{"nl_intent": "During an emergency response drill in Suzhou on 2025-01-06, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "Starting from 2025-02-24, protection signals in the power grid of Seoul will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "An urban smart parking system in Chengdu will deploy ground sensors from 2025-02-13, with devices occasionally uploading occupancy information."}
+{"nl_intent": "A high-speed train passing through Xi'an on 2025-04-13 should support uninterrupted cloud gaming and 4K video for passengers along the route."}
+{"nl_intent": "On 2025-01-23, an autonomous driving test on the expressway near Xi'an will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "A smart agriculture project near Beijing from 2025-02-23 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "A smart agriculture project near Shanghai from 2025-04-16 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "Starting on 2025-04-14, a city-wide smart metering rollout in Wuhan will connect tens of thousands of electricity meters, each periodically reporting consumption data."}
+{"nl_intent": "Starting from 2025-02-04, protection signals in the power grid of Chengdu will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "A university campus in Seoul will upgrade to 6G on 2025-03-09 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "A logistics company in Beijing will attach low-power trackers to thousands of containers and pallets from 2025-05-29, sending infrequent location updates."}
+{"nl_intent": "An international airport in Guangzhou plans to deploy high-capacity 6G hotspots in departure halls on 2025-04-27, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "A remote surgery operation is scheduled in a hospital in Singapore on 2025-03-17. The surgeon will control robotic arms over the 6G network, and the connection must be extremely stable with very low latency and almost no packet loss."}
+{"nl_intent": "During an emergency response drill in Suzhou on 2025-02-20, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "A high-speed train passing through Singapore on 2025-04-18 should support uninterrupted cloud gaming and 4K video for passengers along the route."}
+{"nl_intent": "Starting from 2025-02-04, protection signals in the power grid of Tokyo will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "A high-speed train passing through London on 2025-03-01 should support uninterrupted cloud gaming and 4K video for passengers along the route."}
+{"nl_intent": "An international airport in Seoul plans to deploy high-capacity 6G hotspots in departure halls on 2025-03-10, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "A smart agriculture project near London from 2025-02-06 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "A smart factory in Tokyo will coordinate robot arms and AGVs on 2025-02-15. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "Starting on 2025-05-05, a city-wide smart metering rollout in Wuhan will connect tens of thousands of electricity meters, each periodically reporting consumption data."}
+{"nl_intent": "Starting on 2025-04-23, a city-wide smart metering rollout in London will connect tens of thousands of electricity meters, each periodically reporting consumption data."}
+{"nl_intent": "On 2025-01-13, a global holographic townhall in Suzhou will broadcast 8K volumetric video to remote offices, with participants wearing AR headsets for immersive telepresence."}
+{"nl_intent": "A high-speed train passing through Bangkok on 2025-01-04 should support uninterrupted cloud gaming and 4K video for passengers along the route."}
+{"nl_intent": "An urban smart parking system in Nanjing will deploy ground sensors from 2025-05-21, with devices occasionally uploading occupancy information."}
+{"nl_intent": "A smart agriculture project near Suzhou from 2025-03-01 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "A logistics company in Dubai will attach low-power trackers to thousands of containers and pallets from 2025-04-20, sending infrequent location updates."}
+{"nl_intent": "During an emergency response drill in Singapore on 2025-05-20, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "A remote surgery operation is scheduled in a hospital in Guangzhou on 2025-05-23. The surgeon will control robotic arms over the 6G network, and the connection must be extremely stable with very low latency and almost no packet loss."}
+{"nl_intent": "A university campus in Seoul will upgrade to 6G on 2025-04-13 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "Starting from 2025-04-17, protection signals in the power grid of Suzhou will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "A university campus in Tokyo will upgrade to 6G on 2025-01-27 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "Starting from 2025-01-17, protection signals in the power grid of Shenzhen will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "An industrial park in Seoul plans dense deployment of environmental sensors on 2025-04-25 to monitor air quality, temperature and humidity."}
+{"nl_intent": "A university campus in Tokyo will upgrade to 6G on 2025-04-07 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "A large sports event in Wuhan on 2025-01-31 evening will provide 4K live streaming and multi-angle replays to spectators in the stadium on their mobile devices."}
+{"nl_intent": "An urban smart parking system in Tianjin will deploy ground sensors from 2025-03-22, with devices occasionally uploading occupancy information."}
+{"nl_intent": "Starting from 2025-05-01, protection signals in the power grid of Shanghai will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "A high-speed train passing through Nanjing on 2025-03-21 should support uninterrupted cloud gaming and 4K video for passengers along the route."}
+{"nl_intent": "A high-speed train passing through Bangkok on 2025-04-29 should support uninterrupted cloud gaming and 4K video for passengers along the route."}
+{"nl_intent": "On 2025-04-30, an autonomous driving test on the expressway near Tokyo will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "A large sports event in Tokyo on 2025-05-25 evening will provide 4K live streaming and multi-angle replays to spectators in the stadium on their mobile devices."}
+{"nl_intent": "A smart factory in Seoul will coordinate robot arms and AGVs on 2025-05-11. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "An urban smart parking system in Tianjin will deploy ground sensors from 2025-02-14, with devices occasionally uploading occupancy information."}
+{"nl_intent": "On 2025-05-21, an autonomous driving test on the expressway near Tokyo will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "A smart factory in Wuhan will coordinate robot arms and AGVs on 2025-03-30. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "An urban smart parking system in Tianjin will deploy ground sensors from 2025-04-17, with devices occasionally uploading occupancy information."}
+{"nl_intent": "A logistics company in Xi'an will attach low-power trackers to thousands of containers and pallets from 2025-03-17, sending infrequent location updates."}
+{"nl_intent": "An industrial park in Xi'an plans dense deployment of environmental sensors on 2025-04-25 to monitor air quality, temperature and humidity."}
+{"nl_intent": "An urban smart parking system in Wuhan will deploy ground sensors from 2025-03-25, with devices occasionally uploading occupancy information."}
+{"nl_intent": "A smart factory in Bangkok will coordinate robot arms and AGVs on 2025-04-22. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "An international airport in Nanjing plans to deploy high-capacity 6G hotspots in departure halls on 2025-01-27, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "A high-speed train passing through Chengdu on 2025-05-29 should support uninterrupted cloud gaming and 4K video for passengers along the route."}
+{"nl_intent": "During an emergency response drill in Seoul on 2025-04-21, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "Starting from 2025-03-18, protection signals in the power grid of Nanjing will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "Starting on 2025-02-10, a city-wide smart metering rollout in Xi'an will connect tens of thousands of electricity meters, each periodically reporting consumption data."}
+{"nl_intent": "On 2025-02-15, an autonomous driving test on the expressway near Tianjin will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "An industrial park in Tokyo plans dense deployment of environmental sensors on 2025-03-01 to monitor air quality, temperature and humidity."}
+{"nl_intent": "An industrial park in Shenzhen plans dense deployment of environmental sensors on 2025-03-10 to monitor air quality, temperature and humidity."}
+{"nl_intent": "An international airport in Xi'an plans to deploy high-capacity 6G hotspots in departure halls on 2025-02-18, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "A high-speed train passing through Shenzhen on 2025-02-17 should support uninterrupted cloud gaming and 4K video for passengers along the route."}
+{"nl_intent": "On 2025-01-07, an autonomous driving test on the expressway near Bangkok will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "A smart agriculture project near Bangkok from 2025-03-19 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "A logistics company in Guangzhou will attach low-power trackers to thousands of containers and pallets from 2025-03-01, sending infrequent location updates."}
+{"nl_intent": "An international airport in London plans to deploy high-capacity 6G hotspots in departure halls on 2025-01-24, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "A high-speed train passing through Tokyo on 2025-02-08 should support uninterrupted cloud gaming and 4K video for passengers along the route."}
+{"nl_intent": "A smart agriculture project near Bangkok from 2025-02-06 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "A large sports event in Tokyo on 2025-02-11 evening will provide 4K live streaming and multi-angle replays to spectators in the stadium on their mobile devices."}
+{"nl_intent": "A university campus in Seoul will upgrade to 6G on 2025-01-02 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "A smart factory in Singapore will coordinate robot arms and AGVs on 2025-04-24. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "A remote surgery operation is scheduled in a hospital in Bangkok on 2025-03-28. The surgeon will control robotic arms over the 6G network, and the connection must be extremely stable with very low latency and almost no packet loss."}
+{"nl_intent": "During an emergency response drill in Chengdu on 2025-03-11, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "An industrial park in Wuhan plans dense deployment of environmental sensors on 2025-03-03 to monitor air quality, temperature and humidity."}
+{"nl_intent": "A university campus in Dubai will upgrade to 6G on 2025-01-15 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "An urban smart parking system in Chengdu will deploy ground sensors from 2025-01-20, with devices occasionally uploading occupancy information."}
+{"nl_intent": "An industrial park in Shenzhen plans dense deployment of environmental sensors on 2025-04-04 to monitor air quality, temperature and humidity."}
+{"nl_intent": "A university campus in Dubai will upgrade to 6G on 2025-01-11 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "On 2025-05-07, an autonomous driving test on the expressway near London will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "An industrial park in Singapore plans dense deployment of environmental sensors on 2025-02-03 to monitor air quality, temperature and humidity."}
+{"nl_intent": "On 2025-05-18, an autonomous driving test on the expressway near London will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "Starting on 2025-03-25, a city-wide smart metering rollout in Xi'an will connect tens of thousands of electricity meters, each periodically reporting consumption data."}
+{"nl_intent": "An international airport in Xi'an plans to deploy high-capacity 6G hotspots in departure halls on 2025-02-19, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "During an emergency response drill in Dubai on 2025-03-15, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "Starting from 2025-01-20, protection signals in the power grid of Chengdu will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "On 2025-01-15, an autonomous driving test on the expressway near Bangkok will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "A logistics company in Shanghai will attach low-power trackers to thousands of containers and pallets from 2025-04-11, sending infrequent location updates."}
+{"nl_intent": "A smart factory in Xi'an will coordinate robot arms and AGVs on 2025-03-19. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "During an emergency response drill in Xi'an on 2025-05-31, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "An urban smart parking system in Hangzhou will deploy ground sensors from 2025-05-05, with devices occasionally uploading occupancy information."}
+{"nl_intent": "A university campus in Shenzhen will upgrade to 6G on 2025-02-04 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "On 2025-02-24, a global holographic townhall in Dubai will broadcast 8K volumetric video to remote offices, with participants wearing AR headsets for immersive telepresence."}
+{"nl_intent": "A logistics company in Chengdu will attach low-power trackers to thousands of containers and pallets from 2025-03-09, sending infrequent location updates."}
+{"nl_intent": "On 2025-01-02, a global holographic townhall in Xi'an will broadcast 8K volumetric video to remote offices, with participants wearing AR headsets for immersive telepresence."}
+{"nl_intent": "An industrial park in Wuhan plans dense deployment of environmental sensors on 2025-03-05 to monitor air quality, temperature and humidity."}
+{"nl_intent": "On 2025-05-24, a global holographic townhall in Tokyo will broadcast 8K volumetric video to remote offices, with participants wearing AR headsets for immersive telepresence."}
+{"nl_intent": "A smart agriculture project near Wuhan from 2025-05-28 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "An international airport in Shanghai plans to deploy high-capacity 6G hotspots in departure halls on 2025-02-17, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "A remote surgery operation is scheduled in a hospital in Dubai on 2025-01-05. The surgeon will control robotic arms over the 6G network, and the connection must be extremely stable with very low latency and almost no packet loss."}
+{"nl_intent": "A smart factory in Guangzhou will coordinate robot arms and AGVs on 2025-02-03. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "Starting from 2025-04-24, protection signals in the power grid of Nanjing will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "A large sports event in Chengdu on 2025-02-12 evening will provide 4K live streaming and multi-angle replays to spectators in the stadium on their mobile devices."}
+{"nl_intent": "On 2025-01-28, an autonomous driving test on the expressway near Seoul will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "A logistics company in Shenzhen will attach low-power trackers to thousands of containers and pallets from 2025-02-06, sending infrequent location updates."}
+{"nl_intent": "A smart factory in Nanjing will coordinate robot arms and AGVs on 2025-02-27. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "An urban smart parking system in Tianjin will deploy ground sensors from 2025-01-25, with devices occasionally uploading occupancy information."}
+{"nl_intent": "An industrial park in Guangzhou plans dense deployment of environmental sensors on 2025-03-03 to monitor air quality, temperature and humidity."}
+{"nl_intent": "A smart agriculture project near Hangzhou from 2025-01-21 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "On 2025-04-05, a global holographic townhall in Nanjing will broadcast 8K volumetric video to remote offices, with participants wearing AR headsets for immersive telepresence."}
+{"nl_intent": "A university campus in Seoul will upgrade to 6G on 2025-05-05 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "On 2025-04-11, an autonomous driving test on the expressway near Dubai will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "A smart agriculture project near Beijing from 2025-05-21 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "A smart factory in Wuhan will coordinate robot arms and AGVs on 2025-05-29. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "An industrial park in Bangkok plans dense deployment of environmental sensors on 2025-01-05 to monitor air quality, temperature and humidity."}
+{"nl_intent": "On 2025-03-28, a global holographic townhall in Bangkok will broadcast 8K volumetric video to remote offices, with participants wearing AR headsets for immersive telepresence."}
+{"nl_intent": "A university campus in Suzhou will upgrade to 6G on 2025-05-08 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "A smart factory in Xi'an will coordinate robot arms and AGVs on 2025-02-27. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "A high-speed train passing through Nanjing on 2025-04-25 should support uninterrupted cloud gaming and 4K video for passengers along the route."}
+{"nl_intent": "Starting on 2025-05-16, a city-wide smart metering rollout in Beijing will connect tens of thousands of electricity meters, each periodically reporting consumption data."}
+{"nl_intent": "A smart factory in Bangkok will coordinate robot arms and AGVs on 2025-02-01. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "On 2025-05-30, an autonomous driving test on the expressway near Guangzhou will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "Starting on 2025-03-17, a city-wide smart metering rollout in Seoul will connect tens of thousands of electricity meters, each periodically reporting consumption data."}
+{"nl_intent": "A remote surgery operation is scheduled in a hospital in London on 2025-04-11. The surgeon will control robotic arms over the 6G network, and the connection must be extremely stable with very low latency and almost no packet loss."}
+{"nl_intent": "During an emergency response drill in Nanjing on 2025-03-17, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "Starting from 2025-02-13, protection signals in the power grid of Xi'an will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "A smart factory in Tianjin will coordinate robot arms and AGVs on 2025-01-21. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "A smart agriculture project near Bangkok from 2025-02-10 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "Starting from 2025-04-22, protection signals in the power grid of Bangkok will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "An urban smart parking system in Shanghai will deploy ground sensors from 2025-03-02, with devices occasionally uploading occupancy information."}
+{"nl_intent": "A large sports event in Tianjin on 2025-02-06 evening will provide 4K live streaming and multi-angle replays to spectators in the stadium on their mobile devices."}
+{"nl_intent": "Starting from 2025-02-13, protection signals in the power grid of Bangkok will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "A smart factory in London will coordinate robot arms and AGVs on 2025-01-02. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "A high-speed train passing through London on 2025-05-12 should support uninterrupted cloud gaming and 4K video for passengers along the route."}
+{"nl_intent": "A remote surgery operation is scheduled in a hospital in Hangzhou on 2025-02-24. The surgeon will control robotic arms over the 6G network, and the connection must be extremely stable with very low latency and almost no packet loss."}
+{"nl_intent": "A smart agriculture project near London from 2025-05-28 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "An urban smart parking system in Wuhan will deploy ground sensors from 2025-05-08, with devices occasionally uploading occupancy information."}
+{"nl_intent": "An urban smart parking system in Bangkok will deploy ground sensors from 2025-03-14, with devices occasionally uploading occupancy information."}
+{"nl_intent": "A high-speed train passing through Suzhou on 2025-01-20 should support uninterrupted cloud gaming and 4K video for passengers along the route."}
+{"nl_intent": "During an emergency response drill in Dubai on 2025-04-15, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "An industrial park in Dubai plans dense deployment of environmental sensors on 2025-04-27 to monitor air quality, temperature and humidity."}
+{"nl_intent": "An international airport in Tokyo plans to deploy high-capacity 6G hotspots in departure halls on 2025-03-30, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "A smart factory in Hangzhou will coordinate robot arms and AGVs on 2025-04-16. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "An international airport in Guangzhou plans to deploy high-capacity 6G hotspots in departure halls on 2025-01-02, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "A large sports event in Tokyo on 2025-04-15 evening will provide 4K live streaming and multi-angle replays to spectators in the stadium on their mobile devices."}
+{"nl_intent": "An international airport in Tianjin plans to deploy high-capacity 6G hotspots in departure halls on 2025-04-30, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "On 2025-01-23, an autonomous driving test on the expressway near Seoul will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "A logistics company in Beijing will attach low-power trackers to thousands of containers and pallets from 2025-04-15, sending infrequent location updates."}
+{"nl_intent": "Starting from 2025-04-04, protection signals in the power grid of Tianjin will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "A university campus in Wuhan will upgrade to 6G on 2025-05-14 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "During an emergency response drill in Tokyo on 2025-01-08, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "On 2025-01-19, an autonomous driving test on the expressway near Hangzhou will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "A university campus in Bangkok will upgrade to 6G on 2025-05-13 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "During an emergency response drill in Wuhan on 2025-05-23, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "A high-speed train passing through Seoul on 2025-03-04 should support uninterrupted cloud gaming and 4K video for passengers along the route."}
+{"nl_intent": "A remote surgery operation is scheduled in a hospital in Suzhou on 2025-03-14. The surgeon will control robotic arms over the 6G network, and the connection must be extremely stable with very low latency and almost no packet loss."}
+{"nl_intent": "An industrial park in Singapore plans dense deployment of environmental sensors on 2025-04-02 to monitor air quality, temperature and humidity."}
+{"nl_intent": "A smart agriculture project near Shanghai from 2025-01-30 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "During an emergency response drill in Xi'an on 2025-05-12, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "Starting from 2025-03-15, protection signals in the power grid of Dubai will be carried over the 6G network. Fault detection and isolation messages require ultra-fast and reliable delivery."}
+{"nl_intent": "An international airport in Nanjing plans to deploy high-capacity 6G hotspots in departure halls on 2025-03-24, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "A smart agriculture project near Singapore from 2025-05-07 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "An industrial park in Tokyo plans dense deployment of environmental sensors on 2025-05-22 to monitor air quality, temperature and humidity."}
+{"nl_intent": "On 2025-03-15, an autonomous driving test on the expressway near Hangzhou will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "A smart factory in Singapore will coordinate robot arms and AGVs on 2025-01-18. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "On 2025-01-29, an autonomous driving test on the expressway near Seoul will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "A smart agriculture project near Bangkok from 2025-02-14 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "A university campus in Wuhan will upgrade to 6G on 2025-02-15 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "An urban smart parking system in Guangzhou will deploy ground sensors from 2025-03-04, with devices occasionally uploading occupancy information."}
+{"nl_intent": "A high-speed train passing through Tokyo on 2025-03-30 should support uninterrupted cloud gaming and 4K video for passengers along the route."}
+{"nl_intent": "A logistics company in London will attach low-power trackers to thousands of containers and pallets from 2025-02-01, sending infrequent location updates."}
+{"nl_intent": "A university campus in Shenzhen will upgrade to 6G on 2025-01-05 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "A logistics company in London will attach low-power trackers to thousands of containers and pallets from 2025-04-15, sending infrequent location updates."}
+{"nl_intent": "A remote surgery operation is scheduled in a hospital in Tokyo on 2025-02-18. The surgeon will control robotic arms over the 6G network, and the connection must be extremely stable with very low latency and almost no packet loss."}
+{"nl_intent": "An industrial park in Tianjin plans dense deployment of environmental sensors on 2025-01-14 to monitor air quality, temperature and humidity."}
+{"nl_intent": "During an emergency response drill in Shenzhen on 2025-02-03, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "An international airport in Seoul plans to deploy high-capacity 6G hotspots in departure halls on 2025-03-31, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "On 2025-04-08, an autonomous driving test on the expressway near Shanghai will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "A large sports event in Suzhou on 2025-05-06 evening will provide 4K live streaming and multi-angle replays to spectators in the stadium on their mobile devices."}
+{"nl_intent": "A smart factory in Seoul will coordinate robot arms and AGVs on 2025-04-15. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "During an emergency response drill in Tianjin on 2025-04-06, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "An international airport in Dubai plans to deploy high-capacity 6G hotspots in departure halls on 2025-03-28, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "An urban smart parking system in Shenzhen will deploy ground sensors from 2025-02-24, with devices occasionally uploading occupancy information."}
+{"nl_intent": "An industrial park in Seoul plans dense deployment of environmental sensors on 2025-01-10 to monitor air quality, temperature and humidity."}
+{"nl_intent": "A remote surgery operation is scheduled in a hospital in Bangkok on 2025-01-12. The surgeon will control robotic arms over the 6G network, and the connection must be extremely stable with very low latency and almost no packet loss."}
+{"nl_intent": "A smart factory in Hangzhou will coordinate robot arms and AGVs on 2025-02-04. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "An industrial park in Shenzhen plans dense deployment of environmental sensors on 2025-04-03 to monitor air quality, temperature and humidity."}
+{"nl_intent": "An international airport in Tokyo plans to deploy high-capacity 6G hotspots in departure halls on 2025-05-07, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "A smart factory in Tokyo will coordinate robot arms and AGVs on 2025-03-11. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "On 2025-02-27, an autonomous driving test on the expressway near Guangzhou will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "An urban smart parking system in Nanjing will deploy ground sensors from 2025-02-02, with devices occasionally uploading occupancy information."}
+{"nl_intent": "On 2025-03-16, a global holographic townhall in Guangzhou will broadcast 8K volumetric video to remote offices, with participants wearing AR headsets for immersive telepresence."}
+{"nl_intent": "A large sports event in Hangzhou on 2025-04-06 evening will provide 4K live streaming and multi-angle replays to spectators in the stadium on their mobile devices."}
+{"nl_intent": "A university campus in Shenzhen will upgrade to 6G on 2025-01-05 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "On 2025-03-28, a global holographic townhall in Wuhan will broadcast 8K volumetric video to remote offices, with participants wearing AR headsets for immersive telepresence."}
+{"nl_intent": "During an emergency response drill in Xi'an on 2025-04-16, a swarm of drones and rescue robots will exchange sensor data and control commands in real time. The network must support ultra-low latency and mission-critical reliability."}
+{"nl_intent": "A university campus in London will upgrade to 6G on 2025-04-02 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "A remote surgery operation is scheduled in a hospital in Singapore on 2025-01-05. The surgeon will control robotic arms over the 6G network, and the connection must be extremely stable with very low latency and almost no packet loss."}
+{"nl_intent": "Starting on 2025-01-18, a city-wide smart metering rollout in Beijing will connect tens of thousands of electricity meters, each periodically reporting consumption data."}
+{"nl_intent": "On 2025-05-18, an autonomous driving test on the expressway near Nanjing will involve a fleet of self-driving trucks exchanging cooperative awareness messages. The service must guarantee millisecond-level latency and extremely high reliability for safety."}
+{"nl_intent": "A university campus in Chengdu will upgrade to 6G on 2025-02-13 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "A high-speed train passing through Wuhan on 2025-01-10 should support uninterrupted cloud gaming and 4K video for passengers along the route."}
+{"nl_intent": "A smart agriculture project near Shenzhen from 2025-05-25 will connect soil moisture sensors and climate stations across large fields."}
+{"nl_intent": "A remote surgery operation is scheduled in a hospital in Shanghai on 2025-01-05. The surgeon will control robotic arms over the 6G network, and the connection must be extremely stable with very low latency and almost no packet loss."}
+{"nl_intent": "A university campus in Dubai will upgrade to 6G on 2025-03-10 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "Starting on 2025-01-05, a city-wide smart metering rollout in Tokyo will connect tens of thousands of electricity meters, each periodically reporting consumption data."}
+{"nl_intent": "A logistics company in Chengdu will attach low-power trackers to thousands of containers and pallets from 2025-01-08, sending infrequent location updates."}
+{"nl_intent": "A remote surgery operation is scheduled in a hospital in Dubai on 2025-04-27. The surgeon will control robotic arms over the 6G network, and the connection must be extremely stable with very low latency and almost no packet loss."}
+{"nl_intent": "On 2025-05-31, a global holographic townhall in Tokyo will broadcast 8K volumetric video to remote offices, with participants wearing AR headsets for immersive telepresence."}
+{"nl_intent": "A university campus in Singapore will upgrade to 6G on 2025-03-27 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "A university campus in Suzhou will upgrade to 6G on 2025-05-14 to support massive online classes, interactive labs and AR-assisted teaching for students."}
+{"nl_intent": "An urban smart parking system in Wuhan will deploy ground sensors from 2025-01-08, with devices occasionally uploading occupancy information."}
+{"nl_intent": "A logistics company in Guangzhou will attach low-power trackers to thousands of containers and pallets from 2025-05-03, sending infrequent location updates."}
+{"nl_intent": "A large sports event in Guangzhou on 2025-03-09 evening will provide 4K live streaming and multi-angle replays to spectators in the stadium on their mobile devices."}
+{"nl_intent": "A logistics company in Singapore will attach low-power trackers to thousands of containers and pallets from 2025-01-02, sending infrequent location updates."}
+{"nl_intent": "A smart factory in Seoul will coordinate robot arms and AGVs on 2025-01-15. Control loops require sub-10ms delay and virtually no packet loss to avoid collisions and production errors."}
+{"nl_intent": "Starting on 2025-05-16, a city-wide smart metering rollout in Shenzhen will connect tens of thousands of electricity meters, each periodically reporting consumption data."}
+{"nl_intent": "An international airport in Xi'an plans to deploy high-capacity 6G hotspots in departure halls on 2025-03-06, serving roaming users with HD video streaming and large file downloads."}
+{"nl_intent": "A high-speed train passing through Suzhou on 2025-05-06 should support uninterrupted cloud gaming and 4K video for passengers along the route."}
+{"nl_intent": "An industrial park in Nanjing plans dense deployment of environmental sensors on 2025-03-26 to monitor air quality, temperature and humidity."}
