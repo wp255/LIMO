@@ -6,4 +6,4 @@ https://modelscope.cn/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B/files
 
 
 Fine-tuned Weights
-I have uploaded a fine-tuned weights module to this repository. You can use this module to load the fine-tuned model for inference or further training.
+I have uploaded the fine-tuning weights module to the master branch of this repository. You can use this module to load the fine-tuned model for inference or further training.
